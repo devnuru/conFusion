@@ -28,3 +28,8 @@ address {
   margin: 0px;
   color: #0f0f0f;
 }
+
+.hader-text {
+  font-size: 18px;
+  font-weight: 600;
+}
